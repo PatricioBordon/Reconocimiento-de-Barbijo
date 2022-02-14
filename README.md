@@ -3,4 +3,6 @@
 
 > Sigue en desarrollo, por ahora tiene una presicion del 42% 
 
-![Alt text](/relative/path/to/test.png?raw=true "Presicion")
+![Alt text](/
+Reconocimiento-de-Barbijo
+/path/to/test.png?raw=true "Presicion")
