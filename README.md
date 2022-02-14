@@ -4,3 +4,5 @@
 > Sigue en desarrollo, por ahora tiene una presicion del 42% 
 
 ![Imagen demostrativa de presicion](https://raw.githubusercontent.com/PatricioBordon/Reconocimiento-de-Barbijo/main/test.png)
+
+# Demostracion en tiempo real
