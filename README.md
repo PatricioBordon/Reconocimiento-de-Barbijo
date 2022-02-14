@@ -3,3 +3,4 @@
 
 > Sigue en desarrollo, por ahora tiene una presicion del 42% 
 
+![Alt text](/relative/path/to/text.jpg?raw=true "Presicion")
