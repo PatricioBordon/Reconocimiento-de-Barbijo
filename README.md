@@ -6,4 +6,4 @@
 ![Imagen demostrativa de presicion](https://raw.githubusercontent.com/PatricioBordon/Reconocimiento-de-Barbijo/main/test.png)
 
 # Demostracion en tiempo real
-![Screenshot](https://j.gifs.com/EqWN8v.gif)
+![Demostracion en tiempo real](https://raw.githubusercontent.com/PatricioBordon/Reconocimiento-de-Barbijo/main/gif.gif)
