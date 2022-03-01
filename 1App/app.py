@@ -4,6 +4,7 @@ from PyQt5 import QtCore as qtc
 import sys
 import numpy as np
 import cv2
+from deepLearning import prediccion
 
 class videoCapture (qtc.QThread):  
     change_pixmap_signal = qtc.pyqtSignal(np.ndarray)
@@ -17,9 +18,10 @@ class videoCapture (qtc.QThread):
 
         while self.run_flag:
             ret , frame = cap.read() #formato bgr
+            prediction_img = prediccion(frame)
 
             if ret == True:
-                self.change_pixmap_signal.emit(frame)
+                self.change_pixmap_signal.emit(prediction_img)
 
         cap.release()
 
